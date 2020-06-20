@@ -4,7 +4,6 @@ A simple quiz(trivia) game with multiple choices given.
 * Can keep track and show you the summary of your answers.
 * Uses swing frames for displaying datas and lists for storing questions & answers.
 
-### 2018 Edit: This application is outdated, has really ugly GUI and a really slow algorithm. You've been warned.
 
 ## Sample Screenshots
 
